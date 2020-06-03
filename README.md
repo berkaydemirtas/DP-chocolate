@@ -1,8 +1,3 @@
-# Cmpe 250 Assignment 5
-
-* **Deadline:** 22.12.2019 Sunday @23:00, very strict.
-* For your questions on the project, please contact with your student teaching assistant Ahmet Gedemenli via [afgedemenli@gmail.com](mailto:afgedemenli@gmail.com).
-
 ## Description
 
 Since Ayşe likes chocolate very much, she wants to buy and stock up as many chocolates as possible. However, her mother does not allow her to buy more than *M* chocolates per day. As a little girl, she does not have a big budget, so she wants to buy chocolates as cheap as possible. Unfortunately, chocolate is not something easily reachable where she lives. Because of the famine and black market of chocolates, prices are increasing significantly each day. Ayşe wants to know the minimum possible price she needs to pay to buy K chocolates without breaking her mother’s rule.
@@ -34,14 +29,6 @@ P_i <= 200000 (Price for each chocolate)
 
 **Important note: Please be aware of that your calculations in the solution, and the answers, may exceed 32 bits.**
 
-## Hint
-
-You need to find an efficient algorithm to pass the **one second** runtime constraint on large inputs. 
-
-To find an efficient algorithm, you may consider using **dynamic programming**.  You can start from a less efficient trivial algorithm, analyze it to find subproblems that the algorithm is recalculating, and try to store the answers to these subproblems to prevent recalculation.
-
-A large input will be given for you to test your code against time limit.
-
 ## Sample Input 1
 
 ```
@@ -68,14 +55,5 @@ A large input will be given for you to test your code against time limit.
 7
 ```
 
-## Submission Policy
-You are supposed to use the Git system provided to you for all projects. No other means of submission will be accepted. Also, pay attention to the following points:
-
-* Your code is expected to produce the correct output in **one second**. Any test case that lasts more than one second will be counted as wrong. 
-* All source codes are checked automatically for similarity with other submissions and exercises from previous years. Make sure you write and submit your own code. Plagiarism and any other forms of cheating will have serious consequences, including getting “-100” as the project score and failing the course.
-* Make sure you document your code with simple inline comments and use meaningful variable names. Do not over-comment, or make your variable names unnecessarily long.
-* If you want to make any changes to your project, you should do it before the submission system closes. Your changes will not be accepted by e-mail. Connectivity problems to the Internet or to GitHub in the last few minutes are not valid excuses for being unable to submit. You should not risk leaving your submission to the last few minutes. After uploading to GitHub, check to make sure that your project appears there.
-* We will test your code with different input combinations, so we recommend you to test your code with different input combinations (written by you) as well.
-* Deadline is 22 December 2019, 23:00. 
 
 **Good Luck and Happy Coding!**
