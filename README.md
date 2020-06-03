@@ -56,4 +56,3 @@ P_i <= 200000 (Price for each chocolate)
 ```
 
 
-**Good Luck and Happy Coding!**
